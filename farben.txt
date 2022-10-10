@@ -1,9 +1,11 @@
 Farbpalette
 
 Rot
-Grün
+Hellgrün
+Dunkelgrün
 Blau
 Gelb
+Magenta
 Lila
 Sind alles tolle Farben
 dies ist ein Testdokument
