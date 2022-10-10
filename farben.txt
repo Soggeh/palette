@@ -3,5 +3,7 @@ Farbpalette
 Rot
 Grün
 Blau
+Gelb
+Lila
 Sind alles tolle Farben
 dies ist ein Testdokument
